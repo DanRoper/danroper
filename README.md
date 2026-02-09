@@ -8,6 +8,7 @@ Professional software engineer prepared for this role. Expertise in developing a
 
 
  🔭 I’m currently working on an inventroy management system using WPF and a peer support MAUI appp.
+ 
  🌱 I’m currently learning WPF and MAUI.
  <!--
 - 👯 I’m looking to collaborate on ...
